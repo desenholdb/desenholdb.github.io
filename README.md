@@ -8,7 +8,11 @@ Stockholm – Sweden
 +46 (73) 571-7856
 
 ►About
-I'm a brazilian technical artist with over a decade of experience in 3D graphics and game development. My passion for the digital world began in childhood and it was fueled by my curiosity about how things work and the emotions they evoke. Crafting meaningful experiences that leave a lasting impact brings me joy, and the journey of making friends and learning along the way reassures me that I'm exactly where I belong.
+Technical Artist with a background in game development, 3D art, programming, and video production. With a Bachelor’s degree in Digital Design, my understanding of both artistic and technical workflows, allowing me to bridge the gap between artists and developers.
+
+My expertise spans multiple game engines, programming languages, and industry-standard software, enabling me to create efficient production pipelines, optimize performance, and develop technical solutions that enhance both visual quality and workflow efficiency.
+
+I have led teams, developed production tools, and contributed to a variety of projects, from mobile games to VR experiences, educational and promotional applications. Passionate about problem-solving and innovation, I continuously seek to push the boundaries of interactive media while fostering collaboration between disciplines.
 
 ►Knowledge
 Softwares: Maya, zBrush, Blender, Substance Suite, Adobe Suite, SpeedTree, Sketch Up.
